@@ -1,0 +1,12 @@
+body {
+    background: #0f1325;
+    /* background: #3495ce; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
